@@ -1,0 +1,36 @@
+body {
+	background-image: url("aaaa.png");
+ background-color: #ECEADB;
+ background-repeat:no-repeat;
+}
+
+
+
+
+img{
+	color:yellow;
+background-color:#B82D0F;
+background-image:url(images/DK-taunt.jpg);
+background-repeat:no-repeat;
+	top: 0px;
+	left: 500px;
+	width: 1000px;
+}
+
+h1{
+	color: black;
+}
+
+h2{
+	color: black;
+}
+
+h3{
+	color: black;
+}
+
+p{
+	color: #11F217;
+	margin-left: 50px;
+}
+
